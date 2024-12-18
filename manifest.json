@@ -1,0 +1,35 @@
+{
+  "ccutils": {
+    "type": "github",
+    "author": "remou0001",
+    "repo": "ccutils",
+    "branch": "master",
+    "md5": "0cc175b9c0f1b6a831c399e269772661",
+    "version": "1.0",
+    "size": 1024,
+    "deps": {},
+    "dep_of": {}
+  },
+  "test1": {
+    "type": "github",
+    "author": "remou0001",
+    "repo": "test1",
+    "branch": "master",
+    "md5": "0cc175b9c0f1b6a831c399e269772661",
+    "version": "1.0",
+    "size": 1024,
+    "deps": {},
+    "dep_of": {}
+  },
+  "test2": {
+    "type": "github",
+    "author": "remou0001",
+    "repo": "test2",
+    "branch": "master",
+    "md5": "0cc175b9c0f1b6a831c399e269772661",
+    "version": "1.0",
+    "size": 1024,
+    "deps": {},
+    "dep_of": {}
+  }
+}
